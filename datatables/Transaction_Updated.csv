@@ -1,0 +1,11 @@
+transaction_id,customer_id,product_name,transaction_date
+11,105,Bed,01-02-2022
+12,106,Bed,02-02-2022
+13,107,matress,03-02-2022
+14,105,matress,04-02-2022
+15,108,Bed,05-02-2022
+16,106,Stove,06-02-2022
+17,107,Bed,07-02-2022
+18,105,Stove,08-02-2022
+19,108,matress,09-02-2022
+20,106,matress,10-02-2022
