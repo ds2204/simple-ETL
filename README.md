@@ -141,8 +141,3 @@ python -m pytest tests/test_silver.py -v
 
 MIT License, as indicated in the source repository.
 
-## 🔗 Source Repository
-
-[nbx0021/Ecommerce-Data-Analysis-with-PySpark-](https://github.com/nbx0021/Ecommerce-Data-Analysis-with-PySpark-)
-
-*This README is reproduced and formatted from the repository information provided in the conversation. It does not imply ownership of the original project.*
